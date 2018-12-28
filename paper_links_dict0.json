@@ -1,0 +1,35 @@
+{
+    "深度学习": {
+        "期刊": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CJFD2012&filename=JSYJ201208003&urlid="
+        ],
+        "博硕士": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD201401&filename=1013317348.nh"
+        ],
+        "会议": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CPFDLAST2016&filename=ZHKZ201607001068"
+        ]
+    },
+    "基因工程": {
+        "期刊": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CJFD9899&filename=ZWXT199905011&urlid="
+        ],
+        "博硕士": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CMFD9904&filename=2003087616.nh"
+        ],
+        "会议": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CPFD0914&filename=ZGVL200811001004"
+        ]
+    },
+    "材料学": {
+        "期刊": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CJFD2006&filename=WGCL200602002&urlid="
+        ],
+        "博硕士": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CDFD0911&filename=2009194241.nh"
+        ],
+        "会议": [
+            "http://kns.cnki.net/KCMS/detail/detail.aspx?dbname=CPFD9908&filename=ZGCZ200000001094"
+        ]
+    }
+}
